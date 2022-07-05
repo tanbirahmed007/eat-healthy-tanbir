@@ -38,3 +38,21 @@
 .big-text{
     font-size: 40px;
 }
+
+.h2{
+    text-align: center;
+    color: gray;
+}
+
+.pra{
+    color: gray;
+}
+
+.img2{
+    width: 300px;
+}
+
+.open2{
+    display: flex;
+    background-image: url(images/pink-background.png);
+}
