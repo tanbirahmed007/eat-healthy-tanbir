@@ -56,3 +56,92 @@
     display: flex;
     background-image: url(images/pink-background.png);
 }
+
+.my-rec{
+
+    color: gray;
+}
+
+.rec{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+
+.food{
+
+    display: flex;
+}
+
+.good-food{
+
+    width: 500px;
+    height: 300px;
+    margin-left: 23px;
+    margin-top: 25px;
+}
+
+.box{
+
+    width: 550px ;
+    height: 560px;
+    box-shadow: 10px 10px 60px gray;
+    margin-top: 20px;
+    margin-left:80px ;
+    border-radius: 25px;
+}
+
+.last-p{
+
+    margin-left: 25px;
+}
+
+
+.long-div{
+    width: 60%;
+    box-shadow: 10px 10px 60px gray;
+    border-radius: 25px;
+    margin-left: 17%;
+}
+
+.one{
+    text-align: left;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 60px;
+    font-size: 20px;
+}
+
+
+.two{
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 60px;
+    font-size: 20px;
+}
+
+.three{
+    text-align: right;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 60px;
+    font-size: 20px;
+}
+
+.ok-line{
+    color: gray;
+    text-align: center;
+}
+
+.foot{
+    text-align: center;
+    background-color: #0d0d0e;
+}
+
+.color{
+    color: gray;
+}
+.www{
+    color: white;
+}
