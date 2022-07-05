@@ -1,4 +1,40 @@
-.orange-text{
+.orange-text {
 
     color: orange;
+}
+
+.all {
+    font-family: 'Poppins', sans-serif;
+}
+
+.open {
+    display: flex;
+}
+
+.first-banner {
+
+    width: 50%;
+    padding: 40px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+.img {
+    width: 500px;
+
+}
+
+.button {
+
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-image: linear-gradient(orange, tomato);
+    font-weight:700;
+    text-decoration: none;
+
+}
+
+.big-text{
+    font-size: 40px;
 }
